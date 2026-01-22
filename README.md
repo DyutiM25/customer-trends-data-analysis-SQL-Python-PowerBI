@@ -30,7 +30,7 @@ The primary goal of this project is to demonstrate the ability to:
 ---
 
 ## 📁 Project Structure
-![Alt text](path/to/project-architecture.png)
+![Alt text](/project-architecture.png)
 
 ---
 

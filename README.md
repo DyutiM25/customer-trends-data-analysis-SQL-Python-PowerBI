@@ -74,6 +74,11 @@ The primary goal of this project is to demonstrate the ability to:
 - Provided data-driven recommendations for customer retention  
 
 ---
+---
+## 📈 Customer Behaviour Dashboard 
+![Customer Behaviour Dashboard](BI_Dashboard.jpeg)
+
+---
 
 ## 🚀 How to Run the Project
 
